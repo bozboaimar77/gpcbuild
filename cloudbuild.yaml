@@ -1,6 +1,6 @@
 steps:
 - name: 'byrnedo/alpine-curl'
-  args: ['http://10.0.0.3']
+  args: ['https://www.yahoo.co.jp']
 options:
   pool:
     name: projects/st-pj01/locations/asia-east1/workerPools/build-private-pool
