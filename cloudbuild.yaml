@@ -3,4 +3,4 @@ steps:
   args: ['http://192.168.10.2']
 options:
   pool:
-    name: projects/st-pj01/locations/asia-east1/workerPools/build-private-pool
+    name: 'projects/st-pj01/locations/asia-east1/workerPools/build-private-pool'
